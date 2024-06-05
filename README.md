@@ -1,6 +1,6 @@
 # Face-Mask-Detection-using-CNN
 
-Here I add Some ScreenShot of Output of my Project.
+Here I add some screenshots of the output of my project.
 
 <img width="648" alt="image" src="https://github.com/Manmoh4n/Face-Mask-Detection-using-CNN/assets/90148527/44dd8c0c-1d18-4f37-8a2f-bdcf0d38fd8d">
 
